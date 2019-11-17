@@ -17,7 +17,7 @@
 	<key>Concrete</key>
 	<true/>
 	<key>Description</key>
-	<string>This template provides a starting point for an application that uses a single view. It provides a view controller to manage the view. The app delegate create the main window and root view controller (no Storyboard).</string>
+	<string>This template provides a starting point for an application that uses a single view, withour Swift UI. It provides a view controller to manage the view. The app delegate create the main window and root view controller.</string>
 	<key>SortOrder</key>
 	<integer>1</integer>
 	<key>Options</key>
